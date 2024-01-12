@@ -189,3 +189,5 @@ Please show in the [HowTo.md](https://github.com/androidseb25/iGotify-Notificati
 
 If you have written own HowTo's please edit this file
 
+🔧 How to use iGotify to enable iPhone to recieve Proxmox Notification alarms. [Proxmox Notifications](https://homelab.casaursus.net/proxmox-notifications/)
+
